@@ -158,7 +158,7 @@ section{
     bottom: 0; right: 0; left: 0;
     height: 18rem;
     background-size: 250rem 18rem;
-    background:url(../images/cloud.png) repeat-x;
+    background:url(images/cloud.png) repeat-x;
     animation: cloud 10s linear infinite;
 }
 
